@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechDoc</title>
+    <link>https://mohamedgouaouri.github.io/techdocs/</link>
+    <description>Recent content on TechDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 12:51:45 +0100</lastBuildDate>
+    
+        <atom:link href="https://mohamedgouaouri.github.io/techdocs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Post</title>
+        <link>https://mohamedgouaouri.github.io/techdocs/post/</link>
+        <pubDate>Thu, 13 Feb 2020 12:51:45 +0100</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <guid>https://mohamedgouaouri.github.io/techdocs/post/</guid>
+        <description>this is the first content</description>
+      </item>
+      
+    
+  </channel>
+</rss>
